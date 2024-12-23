@@ -1,0 +1,45 @@
+#==========================================================#
+#______               _       _____           _            #
+#| ___ \             | |     /  __ \         | |           #
+#| |_/ /_ _ _ __   __| | __ _| /  \/_ __ __ _| |_ ___  ___ #
+#|  __/ _` | '_ \ / _` |/ _` | |   | '__/ _` | __/ _ \/ __|#
+#| | | (_| | | | | (_| | (_| | \__/\ | | (_| | ||  __/\__ \#
+#\_|  \__,_|_| |_|\__,_|\__,_|\____/_|  \__,_|\__\___||___/#
+#                                                          #
+#  Authors: Arjona, Dani-error, txmy                       #
+#  Version: 2.1.0
+#  Twitter: @TulioTriste @_xDani_, @txmymc                 #
+#  Discord: https://discord.pandacommunity.org             #
+#                                                          #
+#==========================================================#
+
+# LICENSE CONFIGURATION
+license: "LICENSE_HERE"
+
+# LANGUAGE CONFIGURATION
+# ["EN", "ES"]
+lang: "EN"
+
+# CRATE CONFIGURATION
+crate:
+  hologram:
+    default-lines:
+      - '{display} Crate'
+      - ''
+      - '&bLeft-Click &7to preview'
+      - '&bRight-Click &7to open'
+      - ''
+      - '&9✯ &bPurchaseable at'
+      - '&f&nstore.example.com'
+  key:
+    default-lore:
+      - '&8Key'
+      - ''
+      - '&9&l┃ &7You can preview this {display} Crate'
+      - '&9&l┃ &7rewards by going to the &aOverworld'
+      - '&9&l┃ &aSpawn&7.'
+      - ''
+      - '&9➥ &bLeft Click &7to preview rewards.'
+      - '&9➥ &bRight Click &7to use the key.'
+      - ''
+      - '&e✯ Purchasable at &f&nstore.example.com'

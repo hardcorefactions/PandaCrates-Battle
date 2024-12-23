@@ -1,0 +1,6 @@
+main: dev.panda.crates.Crates
+name: PandaCrates
+version: 2.1.0
+authors: [Arjona, Dani, txmy]
+softdepend:
+  - LunarClientAPI

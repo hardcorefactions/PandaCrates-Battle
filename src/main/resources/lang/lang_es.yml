@@ -1,0 +1,37 @@
+create: "&aLa caja {crate} ha sido creada."
+delete: "&aLa caja {crate} ha sido eliminada."
+
+exist: "&cLa caja {crate} ya existe."
+not_exist: "&cLa caja {crate} no existe."
+
+set: "&aLa caja {crate} ha sido colocada."
+remove: "&cLa caja {crate} ha sido removida."
+
+illegal_characters: "&cPor favor usa caracteres validos."
+
+give: "&a{crate} Crate ha sido entregada."
+give_key: "&aHas entregado x{amount} llaves {key} a {player}."
+give_key_all: "&aHas entregado x{amount} llaves {key} a todos los jugadores."
+
+received_key: "&aHas recibido x{amount} llaves {key}."
+received_key_all: "&aTodos los jugadores han recibido x{amount} llaves {key}."
+
+empty: "&cLa caja {crate} está vacía."
+full: "&cTu inventario está lleno."
+
+key_error: "&cUsa esta llave en la caja {crate}."
+key_not_have: "&cNo tienes la llave {key}."
+
+opening_crate_preview: "&aHas abierto la la preview de la caja {crate}."
+opening_edit_crate_rewards: "&aHas abierto el inventario para editar las recompensas de {crate}"
+
+open_crate: "&aHas abierto la caja {crate}."
+
+clear:
+  all:
+    locations: "&aHas eliminado todos los lugares de cada caja."
+    holograms: "&aHas eliminado todos los hologramas de cada caja."
+  crate:
+    locations: "&aHas eliminado todos los lugares de la &eCaja {crate}&a."
+    holograms: "&aHas eliminado todos los hologramas de la &eCaja {crate}&a."
+not_exist_crates: "&cNo hay cajas."

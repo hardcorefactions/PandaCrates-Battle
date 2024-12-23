@@ -1,0 +1,37 @@
+create: "&a{crate} Crate has been created!"
+delete: "&a{crate} Crate has been deleted!"
+
+exist: "&c{crate} Crate already exist!"
+not_exist: "&c{crate} Crate not exist!"
+
+set: "&a{crate} Crate has been set!"
+remove: "&c{crate} Crate has been removed!"
+
+illegal_characters: "&cPlease use valid characters!"
+
+give: "&a{crate} Crate has been given to you!"
+give_key: "&a{key} Key x{amount} has been given to {player}."
+give_key_all: "&a{key} Key x{amount} has been given to all online players."
+
+received_key: "&aYou have received x{amount} {key} Key."
+received_key_all: "&aAll players have received x{amount} {key} Key."
+
+empty: "&c{crate} Crate is empty!"
+full: "&cYour inventory is full!"
+
+key_error: "&cUse this Key on {crate} Crate!"
+key_not_have: "&cYou don't have {key} Key!"
+
+opening_crate_preview: "&aYou opened the preview of crate {crate}."
+opening_edit_crate_rewards: "&aYou opened the inventory to edit the rewards of the {crate} crate."
+
+open_crate: "&aYou opened the {crate} Crate."
+
+clear:
+  all:
+    locations: "&aSuccessfully removed all locations from every crate."
+    holograms: "&aSuccessfully removed all holograms from every crate."
+  crate:
+    locations: "&aSuccessfully removed all locations from &e{crate} Crate&a."
+    holograms: "&aSuccessfully removed all holograms from &e{crate} Crate&a."
+not_exist_crates: "&cThere are no crates!"
